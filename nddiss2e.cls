@@ -21,8 +21,7 @@
 %% 
 %% Notre Dame's Dissertation document class by Sameer Vijay
 %% that adheres to the University of Notre Dame guidelines
-%% published in Spring 2004. Updated by Megan Patnott to adhere
-%% to the University of Notre Dame guidelines as of Spring 2013.
+%% published in Spring 2004.
 %% 
 %% Please send any improvements/suggestions to :
 %%     Shari Hill, Graduate Reviewer.
